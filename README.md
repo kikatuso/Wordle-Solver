@@ -7,5 +7,6 @@ To launch the terminal-based Wordle-helper for an external wordle game, please e
 ```
 wordle_terminal_solver.py
 ```
+Demonstration on how to use available here: https://youtu.be/WOLCXn69Akc
 
 More functionality will soon follow. 
